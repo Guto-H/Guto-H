@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá eu sou Augusto Henrique 😃
 
-<!--
-**Guto-H/Guto-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Estudando novas tecnologias para ingressar no ramo de Desenvolvimento de Software!
 
-Here are some ideas to get you started:
+[![@LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-henrique-p/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ </br>Tecnologias que estou estudando no momento!
+<div style="display: inline_block">
+    <img align="center" alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" height='20'>
+    <img align="center" alt="Html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height='20'>
+    <img align="center" alt="Css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height='20'>
+    <img align="center" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height='20'>
+</div>
