@@ -5,7 +5,7 @@
 [![@LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-henrique-p/)
 
 
- </br>Tecnologias que estou estudando no momento!
+ </br>Technologies i'm currently learning!
 <div style="display: inline_block">
     <img align="center" alt="Python" src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" height='30'>
     <img align="center" alt="Html5" src="https://user-images.githubusercontent.com/74038190/238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9.gif" height='30'>
