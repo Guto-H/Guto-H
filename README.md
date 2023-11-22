@@ -1,4 +1,4 @@
-### Olá eu sou Augusto Henrique 😃
+## Olá eu sou Augusto Henrique <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Slightly%20Smiling%20Face.png" alt="Slightly Smiling Face" width="30" height="30" />
 
 • Estudando novas tecnologias para ingressar no ramo de Desenvolvimento de Software!
 
