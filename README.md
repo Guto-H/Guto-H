@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/Guto-H/Guto-H">
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Guto-H&show_icons=true&theme=prussian&include_all_commits=true&cont_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Guto-H&show_icons=true&theme=prussian"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guto-H&layout=compact&langs_count=16&theme=prussian"/>
 </div>
     
