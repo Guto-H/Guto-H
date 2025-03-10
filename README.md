@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Augusto Henrique 👋
 
 - 🔭 Atualmente estou estudando linguagens Back-End
-- 🌱 Estudando C# e as vezes ne aventuro no Front
 
 <div>
   <a href="https://github.com/Guto-H/Guto-H">
